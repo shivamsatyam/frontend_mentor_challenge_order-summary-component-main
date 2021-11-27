@@ -1,16 +1,4 @@
-/*  Order Summary
 
-  You can now listen to millions of songs, audiobooks, and podcasts on any 
-  device anywhere you like!
-
-  Annual Plan
-  $59.99/year
-
-  Change
-
-  Proceed to Payment
-  Cancel Order
-  */
 
 *{
 	margin: 0px;
@@ -27,6 +15,7 @@ width: 100%;
     align-items: center;
     background-image: url(./images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
+	background-size:100%;
 }
 
 .box{
